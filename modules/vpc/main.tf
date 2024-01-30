@@ -321,7 +321,7 @@ resource "aws_ecs_task_definition" "ecs_task_definition" {
 [
   {
     "name": "dev-stnf",
-    "image": "691117598985.dkr.ecr.us-east-1.amazonaws.com/dev-stnf-images:latest",
+    "image": "<your-account-id>.dkr.ecr.us-east-1.amazonaws.com/dev-stnf-images:latest",
     "portMappings": [
       {
         "containerPort": 80,
