@@ -10,6 +10,6 @@ Repo , I conveyed the same to Marina and thank you for considering my situation.
 ## About this small terrform repo
 
 **Architecture** : Picture speaks thousand words.
-![Arch Diagram](https://drive.google.com/file/d/1V4BsE_IiF11vB4S37o4_Z-LlVNrnLAWl/view)
+![Arch Diagram](arch-diagram.png)
 
 
